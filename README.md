@@ -13,6 +13,16 @@ A low-cost, non-wearable IoT system for detecting behavioural and environmental 
 
 ---
 
+## Screenshots
+
+### Dashboard — live room monitoring, night shift report, and history view
+![Night Monitor Dashboard](screenshot-dashboard.png)
+
+### Settings & admin panel — configurable night shift hours, alert tiers, manager view
+![Settings and Admin Panel](screenshot-settings.png)
+
+---
+
 ## System Architecture
 
 ```
